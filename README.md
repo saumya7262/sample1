@@ -1,4 +1,4 @@
 # sample1
-Saumya Singla
-BCA 2A2
-Roll no 2310997262
+Saumya Singla<br>
+BCA 2A2<br>
+Roll no 2310997262<br>
